@@ -1,0 +1,30 @@
+{
+  "name": "temporefacilis",
+  "version": "1.15.2",
+  "description": "Ethereum Icon Component",
+  "main": "./build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HettieJacobson/temporefacilis.git"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "react",
+    "eth",
+    "architecto",
+    "blockies",
+    "block"
+  ],
+  "author": "JacksonGerlach",
+  "homepage": "https://github.com/HettieJacobson/temporefacilis.git",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1"
+  },
+  "dependencies": {
+    "doloreillo": "^1.0.0",
+    "veritatisomnis": "^1.0.0"
+  }
+}
